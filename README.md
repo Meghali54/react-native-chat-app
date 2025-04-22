@@ -158,13 +158,3 @@ This software uses the following packages:
 ![GitHub](https://img.shields.io/github/license/Ctere1/react-native-chat)
 
 [LICENSE](./LICENSE)
-
-
-
-## 📌Contributors
-
-![Alt](https://repobeats.axiom.co/api/embed/0d9c40f20e57bc518a7e1419e18f6b6cfa57873d.svg "Repobeats analytics image")
-
-<a href="https://github.com/Ctere1/react-native-chat/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Ctere1/react-native-chat" />
-</a>
